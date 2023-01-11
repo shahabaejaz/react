@@ -1,3 +1,3 @@
 # react
 React Exploration 
-Building basic ReactJS Application 
+building basic ReactJS Application 
